@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋
+
+[@colinmegill](https://twitter.com/colinmegill)
+
+[colinmegill.com](https://colinmegill.com)
 
 <!--
 **colinmegill/colinmegill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
